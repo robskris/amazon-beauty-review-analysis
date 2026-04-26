@@ -24,5 +24,10 @@ To identify patterns in reviews that influence helpful votes and perceived trust
 - Verified purchases made up the majority of reviews
 - More detailed reviews tended to be perceived as more credible
 
+## Visuals
+![Helpfulness by Review Length](helpfulness_by_review_length.png)
+![Rating Distribution](rating_distribution.png)
+![Verified vs Non-Verified](verified_vs_nonverified.png)
+
 ## Status
 Completed
