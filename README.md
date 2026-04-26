@@ -25,9 +25,12 @@ To identify patterns in reviews that influence helpful votes and perceived trust
 - More detailed reviews tended to be perceived as more credible
 
 ## Visuals
-![Helpfulness by Review Length](helpfulness_by_review_length.png)
+
 ![Rating Distribution](rating_distribution.png)
+
 ![Verified vs Non-Verified](verified_vs_nonverified.png)
+
+![Helpfulness by Review Length](helpfulness_by_review_length.png)
 
 ## Status
 Completed
